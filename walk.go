@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"kubepack.dev/chart-doc-gen/walk"
+	"github.com/acookin/chart-doc-gen/walk"
 
 	"sigs.k8s.io/kustomize/kyaml/openapi"
 	"sigs.k8s.io/kustomize/kyaml/yaml"

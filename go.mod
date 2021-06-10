@@ -1,4 +1,4 @@
-module kubepack.dev/chart-doc-gen
+module github.com/acookin/chart-doc-gen
 
 go 1.14
 

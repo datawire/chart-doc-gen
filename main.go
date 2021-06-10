@@ -24,8 +24,8 @@ import (
 	"os"
 	"text/template"
 
-	"kubepack.dev/chart-doc-gen/api"
-	"kubepack.dev/chart-doc-gen/templates"
+	"github.com/acookin/chart-doc-gen/api"
+	"github.com/acookin/chart-doc-gen/templates"
 
 	"github.com/olekukonko/tablewriter"
 	flag "github.com/spf13/pflag"
